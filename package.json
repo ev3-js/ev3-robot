@@ -1,0 +1,28 @@
+{
+  "name": "ev3-robot",
+  "version": "0.1.0",
+  "description": "Contains all the binding for the ev3-js binding",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ev3-js/ev3-robot.git"
+  },
+  "author": "danleavitt0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ev3-js/ev3-robot/issues"
+  },
+  "homepage": "https://github.com/ev3-js/ev3-robot#readme",
+  "dependencies": {
+    "color-sensor": "^0.1.20",
+    "ev3-js-motor": "^0.5.26",
+    "ev3-js-wait": "^0.1.4",
+    "ir-sensor": "^0.1.20",
+    "move-steering": "^0.1.46",
+    "touch-sensor": "^0.1.16",
+    "ultrasonic-sensor": "^0.1.13"
+  }
+}
