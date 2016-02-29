@@ -1,6 +1,6 @@
 {
   "name": "ev3-robot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Contains all the binding for the ev3-js binding",
   "main": "lib/index.js",
   "scripts": {
