@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ev3-js/ev3-robot#readme",
   "dependencies": {
     "color-sensor": "^0.1.20",
-    "ev3-js-motor": "^0.5.26",
+    "ev3-js-motor": "^0.5.20",
     "ev3-js-wait": "^0.1.4",
     "ir-sensor": "^0.1.20",
     "move-steering": "^0.1.46",
